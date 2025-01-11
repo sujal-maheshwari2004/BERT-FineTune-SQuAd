@@ -103,4 +103,3 @@ Lists all the dependencies required to run the project.
 ---
 
 Enjoy experimenting with question answering! If you have suggestions or encounter issues, feel free to raise an issue or contribute to the repository. 😊
-```
