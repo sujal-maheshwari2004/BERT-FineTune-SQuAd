@@ -1,4 +1,4 @@
-# Flan-T5-Small-FineTune-SQuAd
+# BERT-FineTune-SQuAd
 
 This repository demonstrates the fine-tuning of the `bert-base-uncased` model on the SQuAD (Stanford Question Answering Dataset) and provides a Streamlit-based application for question answering. The application allows users to compare the performance of the fine-tuned model with the base model on custom or predefined questions and contexts.
 
