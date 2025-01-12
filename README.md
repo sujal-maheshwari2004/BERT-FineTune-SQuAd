@@ -27,8 +27,8 @@ This repository demonstrates the fine-tuning of the `bert-base-uncased` model on
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/sujal-maheshwari2004/Flan-T5-Small-FineTune-SQuAd.git
-    cd Flan-T5-Small-FineTune-SQuAd
+    git clone https://github.com/sujal-maheshwari2004/BERT-FineTune-SQuAd.git
+    cd BERT-FineTune-SQuAd
     ```
 
 2. **Install the required dependencies**:
